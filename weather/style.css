@@ -1,0 +1,30 @@
+#back{
+    height: 100vh;
+    width: 100vw;
+    background-color: skyblue;
+    display: flex;
+    background-image: url(https://secretnyc.co/wp-content/uploads/2022/03/NYC-sunset.jpg);
+    background-size: cover;
+}
+#searchdiv{
+    text-align: center;
+    margin-top: 5px;
+}
+#mbox{
+    height: 40vh;
+    width: 75vw;
+    background-color: rgb(77, 73, 73);
+    align-self: center;
+    margin: auto;
+    margin-top: 15%;
+    border: 2mm double  turquoise;
+    border-radius: 15%;
+    opacity: .65;
+    color: aqua;
+}
+#boxcon{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
